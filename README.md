@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hamza!
 
-<!--
-**MuhammadHamza1487/MuhammadHamza1487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm in my final year of studying software engineering at the University of Engineering and Technology.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python Programming**: I am very good at Python programming.
+- **Data Analysis**: I use tools like Pandas, NumPy, and Matplotlib to understand and visualize data.
+- **Machine Learning**: I work with machine learning using libraries like Scikit-Learn and TensorFlow.
+- **Django Development**: I am learning how to build web applications with Django.
+
+### Projects
+
+- **Data Analysis**: I have worked on projects where I clean, process, and visualize data to find important information.
+- **Machine Learning**: I have built models to predict and classify data.
+- **Django Web Applications**: I am creating web applications to learn more about web development.
+
+### Education
+
+- **Software Engineering**: University of Engineering and Technology (Final Year)
+
+I love learning new things and working on interesting projects. If you want to work together or have any opportunities, please contact me!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/muhammad-hamza--ml/)
